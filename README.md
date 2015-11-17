@@ -16,3 +16,4 @@ Enhance security;
 Make the hot deploy functionility better ;
 Easy config and management with enhanced UI;
 Simplify the service interface using spring data;
+alex
